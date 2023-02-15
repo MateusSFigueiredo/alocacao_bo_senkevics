@@ -1,0 +1,800 @@
+"id","Processo_Seletivo","nota","Modalidade_Inscrita","Numero_Chamada_Convocacao","Modalidade_Convocada","Codigo_Modalidade_Inscrita","Codigo_Modalidade_Convocada","Curso","mod_ins","mod_con","pub","bxa","ppi","pcd"
+27,"SISU2019",821.44,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+94,"SISU2019",807.92,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+169,"SISU2019",805.04,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+231,"SISU2019",804.76,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+295,"SISU2019",804.1,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+369,"SISU2019",803.04,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+436,"SISU2019",802.58,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+503,"SISU2019",802.38,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+564,"SISU2019",802.06,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+630,"SISU2019",801.8,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+694,"SISU2019",801.48,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+760,"SISU2019",801.48,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+826,"SISU2019",801.28,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+881,"SISU2019",801.26,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+940,"SISU2019",801.06,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1003,"SISU2019",800.62,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1058,"SISU2019",800.54,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1117,"SISU2019",800.48,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1167,"SISU2019",800.46,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1229,"SISU2019",800.42,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1273,"SISU2019",800.34,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1311,"SISU2019",800.32,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1345,"SISU2019",800.04,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1380,"SISU2019",799.88,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1413,"SISU2019",799.56,9,1,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+1629,"SISU2019",763.06,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+1697,"SISU2019",761.58,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+1761,"SISU2019",754.36,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+1824,"SISU2019",753.3,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+1877,"SISU2019",752.22,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+1926,"SISU2019",751.2,1,1,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+2033,"SISU2019",787.78,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2103,"SISU2019",767.34,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2166,"SISU2019",766.9,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2228,"SISU2019",763.7,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2256,"SISU2019",762.1,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2309,"SISU2019",757.94,5,1,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+2393,"SISU2019",691.7,6,1,6,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L13","L13",TRUE,FALSE,FALSE,TRUE
+2419,"SISU2019",688.4,2,1,2,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L09","L09",TRUE,TRUE,FALSE,TRUE
+2461,"SISU2019",768.92,8,1,8,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L14","L14",TRUE,FALSE,TRUE,TRUE
+2504,"SISU2019",748.84,4,1,4,"Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L10","L10",TRUE,TRUE,TRUE,TRUE
+2563,"SISU2019",787.22,3,1,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+2625,"SISU2019",773.22,3,1,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+2684,"SISU2019",770.48,3,1,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+2732,"SISU2019",769.76,3,1,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+2767,"SISU2019",767.28,3,1,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+2825,"SISU2019",800.04,7,1,7,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L05","L05",TRUE,FALSE,FALSE,FALSE
+2886,"SISU2019",798.24,7,1,7,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L05","L05",TRUE,FALSE,FALSE,FALSE
+2944,"SISU2019",791.08,7,1,7,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L05","L05",TRUE,FALSE,FALSE,FALSE
+2997,"SISU2019",781.92,7,1,7,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L05","L05",TRUE,FALSE,FALSE,FALSE
+3089,"SISU2019",799.24,9,2,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3154,"SISU2019",799.24,9,2,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3229,"SISU2019",798.76,9,2,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3294,"SISU2019",798.54,9,2,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3374,"SISU2019",797.48,9,3,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3440,"SISU2019",797.42,9,8,9,"Ampla Concorrência","Ampla Concorrência","MEDICINA","A0","A0",FALSE,FALSE,FALSE,FALSE
+3515,"SISU2019",797.18,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3550,"SISU2019",796.92,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3647,"SISU2019",796.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3697,"SISU2019",796.42,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3763,"SISU2019",796.1,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3823,"SISU2019",794.72,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3891,"SISU2019",794.5,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+3982,"SISU2019",792.56,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4031,"SISU2019",791.6,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4097,"SISU2019",791.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4165,"SISU2019",791.3,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4219,"SISU2019",790.98,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4284,"SISU2019",790.68,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4349,"SISU2019",789.2,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4436,"SISU2019",788.86,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4512,"SISU2019",788.76,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4547,"SISU2019",788.76,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4628,"SISU2019",788.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4676,"SISU2019",785.62,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4755,"SISU2019",784.72,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4806,"SISU2019",783.54,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4859,"SISU2019",780.34,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+4951,"SISU2019",779.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5004,"SISU2019",777.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5045,"SISU2019",776.38,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5122,"SISU2019",775.96,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5183,"SISU2019",775.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5219,"SISU2019",775.5,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5272,"SISU2019",775.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5332,"SISU2019",775.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5389,"SISU2019",774.88,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5457,"SISU2019",773.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5494,"SISU2019",773.5,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5546,"SISU2019",772.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5602,"SISU2019",771.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5637,"SISU2019",771.56,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5691,"SISU2019",770.96,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5728,"SISU2019",770.16,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5768,"SISU2019",769.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5832,"SISU2019",769.28,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5875,"SISU2019",768.1,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5915,"SISU2019",767.62,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5948,"SISU2019",767.08,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+5987,"SISU2019",765.16,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6022,"SISU2019",765.08,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6063,"SISU2019",765.02,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6097,"SISU2019",764.46,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6141,"SISU2019",764.32,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6162,"SISU2019",763.78,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6208,"SISU2019",762.98,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6239,"SISU2019",762.12,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6260,"SISU2019",761.56,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6292,"SISU2019",761.48,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6323,"SISU2019",761.12,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6359,"SISU2019",760.58,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6380,"SISU2019",760.16,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6415,"SISU2019",760.04,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6436,"SISU2019",759.92,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6468,"SISU2019",759.6,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6491,"SISU2019",759.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6507,"SISU2019",759,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6535,"SISU2019",758.88,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6564,"SISU2019",758.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6575,"SISU2019",758.56,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6607,"SISU2019",758.46,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6621,"SISU2019",757.74,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6637,"SISU2019",756.52,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6660,"SISU2019",755.28,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6679,"SISU2019",755.04,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6697,"SISU2019",754.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6714,"SISU2019",754.44,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6734,"SISU2019",753.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6751,"SISU2019",753.5,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6766,"SISU2019",753.32,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6791,"SISU2019",753.24,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6799,"SISU2019",753.2,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6825,"SISU2019",752.6,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6836,"SISU2019",752.46,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6853,"SISU2019",752.4,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6867,"SISU2019",751.88,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6880,"SISU2019",751.44,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6890,"SISU2019",751,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6907,"SISU2019",750.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6922,"SISU2019",749.82,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6934,"SISU2019",749.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6948,"SISU2019",748.62,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6966,"SISU2019",748.48,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6977,"SISU2019",747.72,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+6989,"SISU2019",747.4,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7001,"SISU2019",747.36,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7011,"SISU2019",747.34,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7020,"SISU2019",747.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7025,"SISU2019",745.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7035,"SISU2019",745.68,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7044,"SISU2019",745.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7050,"SISU2019",744.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7057,"SISU2019",744.54,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7063,"SISU2019",744.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7069,"SISU2019",744.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7075,"SISU2019",744.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7083,"SISU2019",743.78,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7087,"SISU2019",743.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7094,"SISU2019",743.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7098,"SISU2019",743.52,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7103,"SISU2019",742.64,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7109,"SISU2019",742.54,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7113,"SISU2019",742.34,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7118,"SISU2019",742.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7124,"SISU2019",741.78,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7128,"SISU2019",741.46,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7135,"SISU2019",741.38,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7138,"SISU2019",741.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7143,"SISU2019",741.26,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7149,"SISU2019",740.88,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7155,"SISU2019",740.76,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7160,"SISU2019",740.38,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7163,"SISU2019",740.32,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7168,"SISU2019",740.26,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7173,"SISU2019",740.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7179,"SISU2019",739.84,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7184,"SISU2019",739.52,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7189,"SISU2019",739.32,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7195,"SISU2019",739.3,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7198,"SISU2019",739.2,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7203,"SISU2019",739.06,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7208,"SISU2019",738.74,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7213,"SISU2019",738.74,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7218,"SISU2019",737.88,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7224,"SISU2019",737.56,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7227,"SISU2019",737.46,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7232,"SISU2019",737.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7235,"SISU2019",736.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7239,"SISU2019",736.64,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7243,"SISU2019",736.42,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7247,"SISU2019",736.24,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7251,"SISU2019",736.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7255,"SISU2019",735.64,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7259,"SISU2019",735,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7262,"SISU2019",734.78,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7265,"SISU2019",734.48,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7269,"SISU2019",734.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7274,"SISU2019",734.36,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7277,"SISU2019",734.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7281,"SISU2019",734.22,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7285,"SISU2019",734.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7291,"SISU2019",734.06,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7294,"SISU2019",733.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7297,"SISU2019",733.78,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7301,"SISU2019",733.66,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7304,"SISU2019",733.64,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7307,"SISU2019",733.38,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7311,"SISU2019",733.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7313,"SISU2019",732.84,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7316,"SISU2019",732.18,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7319,"SISU2019",731.56,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7322,"SISU2019",731.44,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7327,"SISU2019",730.06,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7329,"SISU2019",728.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7331,"SISU2019",728.88,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7335,"SISU2019",728.12,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7337,"SISU2019",727,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7340,"SISU2019",726.18,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7343,"SISU2019",726.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7346,"SISU2019",724.9,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7349,"SISU2019",724.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7352,"SISU2019",724.52,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7355,"SISU2019",724.5,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7359,"SISU2019",724.3,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7362,"SISU2019",724.06,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7364,"SISU2019",724,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7367,"SISU2019",723.98,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7370,"SISU2019",723.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7374,"SISU2019",722.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7377,"SISU2019",722.28,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7379,"SISU2019",721.88,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7383,"SISU2019",721.72,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7385,"SISU2019",721.54,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7388,"SISU2019",721.32,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7391,"SISU2019",720.3,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7394,"SISU2019",719.98,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7397,"SISU2019",719.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7400,"SISU2019",719.88,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7403,"SISU2019",719.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7406,"SISU2019",719.5,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7409,"SISU2019",716.06,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7412,"SISU2019",715.42,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7416,"SISU2019",715.42,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7418,"SISU2019",714.64,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7421,"SISU2019",714.64,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7422,"SISU2019",714.36,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7424,"SISU2019",713.9,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7426,"SISU2019",713.68,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7428,"SISU2019",713.34,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7430,"SISU2019",713.34,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7432,"SISU2019",713.26,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7434,"SISU2019",713.26,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7436,"SISU2019",713.2,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7438,"SISU2019",713.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7441,"SISU2019",712.58,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7442,"SISU2019",712.4,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7444,"SISU2019",711.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7445,"SISU2019",711.24,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7446,"SISU2019",711.16,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7447,"SISU2019",710.84,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7448,"SISU2019",710.24,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7449,"SISU2019",710.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7450,"SISU2019",709,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7451,"SISU2019",708.76,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7452,"SISU2019",708.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7453,"SISU2019",708.44,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7454,"SISU2019",708.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7455,"SISU2019",707.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7456,"SISU2019",707.7,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7457,"SISU2019",707.6,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7458,"SISU2019",707.5,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7459,"SISU2019",707.2,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7460,"SISU2019",706.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7461,"SISU2019",705.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7462,"SISU2019",704.76,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7463,"SISU2019",704.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7464,"SISU2019",704.4,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7465,"SISU2019",704.24,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7466,"SISU2019",704.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7467,"SISU2019",704.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7468,"SISU2019",704,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7469,"SISU2019",703.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7470,"SISU2019",703.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7471,"SISU2019",703.4,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7472,"SISU2019",703.14,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7473,"SISU2019",702.78,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7474,"SISU2019",702.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7475,"SISU2019",702.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7476,"SISU2019",702.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7477,"SISU2019",702,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7478,"SISU2019",701.98,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7479,"SISU2019",700.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7480,"SISU2019",700.3,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7481,"SISU2019",700.28,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7482,"SISU2019",700.22,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7483,"SISU2019",700.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7484,"SISU2019",699.8,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7485,"SISU2019",698.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7486,"SISU2019",698.18,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7487,"SISU2019",697.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7488,"SISU2019",697.08,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7489,"SISU2019",696.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7490,"SISU2019",696.38,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7491,"SISU2019",693.2,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7492,"SISU2019",692.9,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7493,"SISU2019",691.36,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7494,"SISU2019",689.5,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7495,"SISU2019",688.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7496,"SISU2019",688.92,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7497,"SISU2019",688.9,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7498,"SISU2019",688.84,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7499,"SISU2019",686.84,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7500,"SISU2019",686.52,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7501,"SISU2019",686.26,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7502,"SISU2019",686.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7503,"SISU2019",685.82,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7504,"SISU2019",685.12,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7505,"SISU2019",684.86,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7506,"SISU2019",684.52,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7507,"SISU2019",684.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7508,"SISU2019",683.26,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7509,"SISU2019",681.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7510,"SISU2019",680.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7511,"SISU2019",678.74,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7512,"SISU2019",677.74,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7513,"SISU2019",677.28,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7514,"SISU2019",676.8,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7515,"SISU2019",675.5,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7516,"SISU2019",675.28,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7517,"SISU2019",675.24,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7518,"SISU2019",674.82,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7519,"SISU2019",674.78,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7520,"SISU2019",674.4,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7521,"SISU2019",674.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7522,"SISU2019",674.18,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7523,"SISU2019",673.38,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7524,"SISU2019",671.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7525,"SISU2019",671.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7526,"SISU2019",670.18,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7527,"SISU2019",669.88,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7528,"SISU2019",669.86,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7529,"SISU2019",669.4,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7530,"SISU2019",669.18,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7531,"SISU2019",668.9,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7532,"SISU2019",668.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7533,"SISU2019",668.38,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7534,"SISU2019",668.24,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7535,"SISU2019",667.76,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7536,"SISU2019",667.58,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7537,"SISU2019",667.48,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7538,"SISU2019",665.38,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7539,"SISU2019",664.38,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7540,"SISU2019",663.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7541,"SISU2019",662.78,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7542,"SISU2019",662.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7543,"SISU2019",662.06,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7544,"SISU2019",661.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7545,"SISU2019",661.34,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7546,"SISU2019",661.16,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7547,"SISU2019",661.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7548,"SISU2019",660.14,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7549,"SISU2019",658.56,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7550,"SISU2019",657.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7551,"SISU2019",656.8,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7552,"SISU2019",656.56,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7553,"SISU2019",654.6,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7554,"SISU2019",652.36,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7555,"SISU2019",649.16,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7556,"SISU2019",649.1,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7557,"SISU2019",647.8,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7558,"SISU2019",645.24,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7559,"SISU2019",644.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7560,"SISU2019",643.7,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7561,"SISU2019",639.34,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7562,"SISU2019",638.42,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7563,"SISU2019",637.74,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7564,"SISU2019",635.68,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7565,"SISU2019",635,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7566,"SISU2019",632.8,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7567,"SISU2019",626.94,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7568,"SISU2019",626.26,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7569,"SISU2019",625.82,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7570,"SISU2019",625.4,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7571,"SISU2019",624.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7572,"SISU2019",624.24,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7573,"SISU2019",622.98,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7574,"SISU2019",621.64,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7575,"SISU2019",619.72,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7576,"SISU2019",618.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7577,"SISU2019",617.58,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7578,"SISU2019",616.02,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7579,"SISU2019",615.82,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7580,"SISU2019",614.48,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7581,"SISU2019",613.16,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7582,"SISU2019",610.28,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7583,"SISU2019",609,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7584,"SISU2019",607.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7585,"SISU2019",606.16,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7586,"SISU2019",604.6,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7587,"SISU2019",602.76,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7588,"SISU2019",601.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7589,"SISU2019",601.76,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7590,"SISU2019",600.88,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7591,"SISU2019",599.6,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7592,"SISU2019",597.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7593,"SISU2019",594.14,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7594,"SISU2019",586.18,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7595,"SISU2019",585,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7596,"SISU2019",584.44,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7597,"SISU2019",583.72,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7598,"SISU2019",581.96,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7599,"SISU2019",581.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7600,"SISU2019",575.18,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7601,"SISU2019",573.06,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7602,"SISU2019",572.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7603,"SISU2019",566.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7604,"SISU2019",566.1,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7605,"SISU2019",562.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7606,"SISU2019",558.3,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7607,"SISU2019",558.26,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7608,"SISU2019",552.04,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7609,"SISU2019",537.58,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7610,"SISU2019",524.86,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7611,"SISU2019",521.58,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7612,"SISU2019",516.44,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7613,"SISU2019",512.36,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7614,"SISU2019",508.54,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7615,"SISU2019",507.04,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7616,"SISU2019",506.56,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7617,"SISU2019",500.32,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7618,"SISU2019",495.68,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7619,"SISU2019",494.28,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7620,"SISU2019",493.54,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7621,"SISU2019",487.46,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7622,"SISU2019",479.42,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7623,"SISU2019",478.7,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7624,"SISU2019",460.96,9,NA,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7625,"SISU2019",445.92,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7626,"SISU2019",426.76,9,0,NA,"Ampla Concorrência","","MEDICINA","A0","NA",FALSE,FALSE,FALSE,FALSE
+7644,"SISU2019",751.18,1,2,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+7751,"SISU2019",748.76,1,2,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+7779,"SISU2019",748.08,1,2,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+7876,"SISU2019",739.04,1,3,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+7955,"SISU2019",736.56,1,3,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+8013,"SISU2019",732.18,1,3,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+8085,"SISU2019",729.06,1,4,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+8141,"SISU2019",727.56,1,4,1,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L02","L02",TRUE,TRUE,TRUE,FALSE
+8209,"SISU2019",726.96,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8234,"SISU2019",726.64,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8293,"SISU2019",723.46,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8389,"SISU2019",723.4,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8445,"SISU2019",723.24,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8472,"SISU2019",722.76,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8550,"SISU2019",716.66,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8582,"SISU2019",716.04,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8626,"SISU2019",714.98,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8675,"SISU2019",714.88,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8736,"SISU2019",712.3,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8782,"SISU2019",711.92,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8820,"SISU2019",710.32,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8842,"SISU2019",708.94,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8880,"SISU2019",708.52,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8925,"SISU2019",703.06,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8950,"SISU2019",702.34,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+8997,"SISU2019",701.8,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9012,"SISU2019",695.08,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9041,"SISU2019",689.58,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9068,"SISU2019",688.04,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9091,"SISU2019",685.36,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9114,"SISU2019",680.88,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9136,"SISU2019",680.16,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9161,"SISU2019",679.52,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9178,"SISU2019",678.98,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9194,"SISU2019",677.62,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9205,"SISU2019",677.28,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9228,"SISU2019",675.22,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9244,"SISU2019",674.04,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9257,"SISU2019",670.34,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9267,"SISU2019",670.12,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9289,"SISU2019",669.28,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9305,"SISU2019",667.32,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9317,"SISU2019",662.3,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9327,"SISU2019",662.22,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9339,"SISU2019",658.98,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9361,"SISU2019",656.02,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9370,"SISU2019",652.26,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9374,"SISU2019",652.08,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9386,"SISU2019",647.68,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9400,"SISU2019",642.76,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9413,"SISU2019",641.96,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9416,"SISU2019",641.26,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9423,"SISU2019",638.54,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9432,"SISU2019",632.7,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9447,"SISU2019",627.52,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9450,"SISU2019",627.12,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9456,"SISU2019",625.16,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9471,"SISU2019",624.54,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9479,"SISU2019",624.16,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9484,"SISU2019",624.1,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9490,"SISU2019",622.3,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9503,"SISU2019",617.64,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9505,"SISU2019",616.92,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9514,"SISU2019",613.78,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9522,"SISU2019",606.38,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9529,"SISU2019",605.28,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9533,"SISU2019",604.94,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9538,"SISU2019",600.86,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9540,"SISU2019",595.7,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9546,"SISU2019",594.52,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9554,"SISU2019",594.48,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9556,"SISU2019",594.36,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9564,"SISU2019",591.24,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9569,"SISU2019",585.1,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9571,"SISU2019",582.1,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9577,"SISU2019",579.48,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9581,"SISU2019",577.16,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9586,"SISU2019",573.56,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9587,"SISU2019",560.78,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9592,"SISU2019",559.74,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9595,"SISU2019",556.86,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9598,"SISU2019",551.42,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9599,"SISU2019",549.46,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9602,"SISU2019",545.56,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9605,"SISU2019",539.54,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9608,"SISU2019",536.28,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9611,"SISU2019",534.3,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9616,"SISU2019",529.62,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9617,"SISU2019",516.42,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9620,"SISU2019",508.26,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9623,"SISU2019",494.52,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9628,"SISU2019",487.52,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9629,"SISU2019",485.22,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9634,"SISU2019",481.78,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9635,"SISU2019",465.18,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9640,"SISU2019",462.82,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9641,"SISU2019",462.24,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9646,"SISU2019",459.78,1,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9647,"SISU2019",452.8,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9651,"SISU2019",442.14,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9653,"SISU2019",416.96,1,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L02","NA",TRUE,TRUE,TRUE,FALSE
+9681,"SISU2019",743.78,5,2,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+9746,"SISU2019",739.96,5,2,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+9827,"SISU2019",739.56,5,2,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+9892,"SISU2019",736.38,5,3,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+9959,"SISU2019",733.76,5,8,5,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L06","L06",TRUE,FALSE,TRUE,FALSE
+10017,"SISU2019",732.68,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10070,"SISU2019",731.02,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10127,"SISU2019",727.86,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10199,"SISU2019",726.98,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10254,"SISU2019",723.3,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10302,"SISU2019",719.42,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10355,"SISU2019",717.12,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10398,"SISU2019",708.08,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10443,"SISU2019",706.02,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10484,"SISU2019",705.36,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10524,"SISU2019",703.82,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10559,"SISU2019",703.66,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10596,"SISU2019",703.44,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10621,"SISU2019",696.5,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10648,"SISU2019",694.7,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10669,"SISU2019",694.62,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10692,"SISU2019",689.46,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10710,"SISU2019",687,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10727,"SISU2019",683.62,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10747,"SISU2019",681.78,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10765,"SISU2019",679.42,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10780,"SISU2019",677.26,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10796,"SISU2019",676.74,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10809,"SISU2019",675.86,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10823,"SISU2019",675.72,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10835,"SISU2019",674.84,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10849,"SISU2019",672.22,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10861,"SISU2019",672.14,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10872,"SISU2019",656.78,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10881,"SISU2019",650.42,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10891,"SISU2019",648.8,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10899,"SISU2019",643.8,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10909,"SISU2019",642.66,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10917,"SISU2019",640.66,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10927,"SISU2019",639.48,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10936,"SISU2019",639.4,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10945,"SISU2019",628.26,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10951,"SISU2019",627.9,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10961,"SISU2019",626.54,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10969,"SISU2019",622.02,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10974,"SISU2019",618.12,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10979,"SISU2019",617.36,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10984,"SISU2019",612.4,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10989,"SISU2019",611.74,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10994,"SISU2019",608.14,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+10999,"SISU2019",607.4,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11004,"SISU2019",600.58,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11008,"SISU2019",600.02,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11012,"SISU2019",592.26,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11015,"SISU2019",590.02,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11017,"SISU2019",589.54,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11019,"SISU2019",583.3,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11020,"SISU2019",580.94,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11021,"SISU2019",562.24,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11022,"SISU2019",540.94,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11023,"SISU2019",537.22,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11024,"SISU2019",534.88,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11025,"SISU2019",501.86,5,0,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11026,"SISU2019",495.72,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11027,"SISU2019",492.68,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11028,"SISU2019",479.48,5,NA,NA,"Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L06","NA",TRUE,FALSE,TRUE,FALSE
+11029,"SISU2019",690.84,6,4,6,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L13","L13",TRUE,FALSE,FALSE,TRUE
+11034,"SISU2019",624.64,6,5,6,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L13","L13",TRUE,FALSE,FALSE,TRUE
+11036,"SISU2019",617.84,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11038,"SISU2019",590.76,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11039,"SISU2019",573.36,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11040,"SISU2019",570.94,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11041,"SISU2019",551.04,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11042,"SISU2019",504.2,6,0,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11043,"SISU2019",489.9,6,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L13","NA",TRUE,FALSE,FALSE,TRUE
+11049,"SISU2019",638.72,2,2,2,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L09","L09",TRUE,TRUE,FALSE,TRUE
+11055,"SISU2019",623.48,2,3,2,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L09","L09",TRUE,TRUE,FALSE,TRUE
+11058,"SISU2019",600.1,2,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L09","NA",TRUE,TRUE,FALSE,TRUE
+11059,"SISU2019",596.1,2,0,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L09","NA",TRUE,TRUE,FALSE,TRUE
+11060,"SISU2019",468,2,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L09","NA",TRUE,TRUE,FALSE,TRUE
+11061,"SISU2019",453.8,2,0,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L09","NA",TRUE,TRUE,FALSE,TRUE
+11062,"SISU2019",438.1,2,NA,NA,"Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L09","NA",TRUE,TRUE,FALSE,TRUE
+11068,"SISU2019",672.6,8,NA,NA,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L14","NA",TRUE,FALSE,TRUE,TRUE
+11070,"SISU2019",651.34,8,NA,NA,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L14","NA",TRUE,FALSE,TRUE,TRUE
+11072,"SISU2019",588.64,8,0,NA,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L14","NA",TRUE,FALSE,TRUE,TRUE
+11073,"SISU2019",570.04,8,NA,NA,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L14","NA",TRUE,FALSE,TRUE,TRUE
+11074,"SISU2019",537.7,8,0,NA,"Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L14","NA",TRUE,FALSE,TRUE,TRUE
+11078,"SISU2019",704.42,4,NA,NA,"Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L10","NA",TRUE,TRUE,TRUE,TRUE
+11086,"SISU2019",655.52,4,NA,NA,"Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L10","NA",TRUE,TRUE,TRUE,TRUE
+11089,"SISU2019",586.82,4,0,NA,"Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L10","NA",TRUE,TRUE,TRUE,TRUE
+11136,"SISU2019",765.68,3,2,3,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","MEDICINA","L01","L01",TRUE,TRUE,FALSE,FALSE
+11206,"SISU2019",763.04,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11271,"SISU2019",762.08,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11331,"SISU2019",759.72,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11393,"SISU2019",758.92,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11465,"SISU2019",757.74,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11527,"SISU2019",756.06,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11576,"SISU2019",754.92,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11634,"SISU2019",752.66,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11693,"SISU2019",748.04,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11751,"SISU2019",747.92,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11804,"SISU2019",747.78,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11847,"SISU2019",744.66,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11887,"SISU2019",743.14,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11924,"SISU2019",739.5,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+11962,"SISU2019",733.7,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12001,"SISU2019",726.08,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12033,"SISU2019",724.46,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12064,"SISU2019",723.7,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12087,"SISU2019",723.56,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12111,"SISU2019",723.5,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12132,"SISU2019",722.02,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12154,"SISU2019",721.12,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12173,"SISU2019",718.1,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12189,"SISU2019",716.34,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12207,"SISU2019",714.48,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12222,"SISU2019",710.74,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12238,"SISU2019",710.52,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12248,"SISU2019",706.26,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12258,"SISU2019",702,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12268,"SISU2019",699.84,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12278,"SISU2019",699.3,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12289,"SISU2019",692.88,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12298,"SISU2019",683.94,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12307,"SISU2019",681.62,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12316,"SISU2019",679.48,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12325,"SISU2019",678.7,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12333,"SISU2019",677.78,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12340,"SISU2019",675.26,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12348,"SISU2019",673.38,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12356,"SISU2019",670.74,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12364,"SISU2019",670.56,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12372,"SISU2019",669.6,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12380,"SISU2019",668.98,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12388,"SISU2019",667.8,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12396,"SISU2019",667.46,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12405,"SISU2019",662.28,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12409,"SISU2019",659.98,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12415,"SISU2019",653.9,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12419,"SISU2019",645.82,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12424,"SISU2019",642.88,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12428,"SISU2019",639.28,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12432,"SISU2019",637.22,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12436,"SISU2019",633.12,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12440,"SISU2019",632.04,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12445,"SISU2019",630.3,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12448,"SISU2019",629.54,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12452,"SISU2019",627.9,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12456,"SISU2019",626.28,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12460,"SISU2019",624.22,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12464,"SISU2019",623.84,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12468,"SISU2019",623.26,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12473,"SISU2019",622.88,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12476,"SISU2019",618.64,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12480,"SISU2019",615.52,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12484,"SISU2019",615.3,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12488,"SISU2019",611.62,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12492,"SISU2019",607.96,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12497,"SISU2019",603.24,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12500,"SISU2019",600.66,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12504,"SISU2019",598.3,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12508,"SISU2019",595.74,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12511,"SISU2019",594.76,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12514,"SISU2019",594.48,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12517,"SISU2019",579.56,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12519,"SISU2019",571.8,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12522,"SISU2019",571.62,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12523,"SISU2019",568.54,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12525,"SISU2019",567.94,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12527,"SISU2019",566.46,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12528,"SISU2019",565.3,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12529,"SISU2019",563.76,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12530,"SISU2019",560.18,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12531,"SISU2019",558.02,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12532,"SISU2019",549,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12533,"SISU2019",517.06,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12534,"SISU2019",516.26,3,NA,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12535,"SISU2019",487.42,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12536,"SISU2019",464.68,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12537,"SISU2019",436.72,3,0,NA,"Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L01","NA",TRUE,TRUE,FALSE,FALSE
+12583,"SISU2019",774.08,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12647,"SISU2019",771.54,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12717,"SISU2019",766.46,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12773,"SISU2019",764.94,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12834,"SISU2019",763.72,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12891,"SISU2019",761.76,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12952,"SISU2019",757.08,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+12998,"SISU2019",754.84,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13046,"SISU2019",753.36,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13087,"SISU2019",752.42,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13129,"SISU2019",752.34,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13168,"SISU2019",747.94,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13201,"SISU2019",747.14,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13226,"SISU2019",746.72,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13256,"SISU2019",744.56,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13279,"SISU2019",738.7,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13304,"SISU2019",737.08,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13328,"SISU2019",735.64,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13348,"SISU2019",735.32,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13365,"SISU2019",734.14,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13380,"SISU2019",733.02,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13398,"SISU2019",732.76,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13409,"SISU2019",729.86,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13422,"SISU2019",728.04,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13429,"SISU2019",725.04,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13439,"SISU2019",717.56,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13449,"SISU2019",717.26,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13456,"SISU2019",706.28,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13464,"SISU2019",705.58,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13472,"SISU2019",705.2,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13480,"SISU2019",697.66,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13488,"SISU2019",693.58,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13496,"SISU2019",687.88,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13503,"SISU2019",683.58,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13509,"SISU2019",680.38,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13515,"SISU2019",679.84,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13520,"SISU2019",674.14,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13524,"SISU2019",672.12,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13528,"SISU2019",668.56,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13532,"SISU2019",667.16,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13536,"SISU2019",664.4,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13540,"SISU2019",660.34,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13544,"SISU2019",660.24,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13547,"SISU2019",658.78,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13550,"SISU2019",653.72,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13553,"SISU2019",650.02,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13556,"SISU2019",645.92,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13559,"SISU2019",642.92,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13562,"SISU2019",636.88,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13565,"SISU2019",628.52,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13568,"SISU2019",625.8,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13570,"SISU2019",624.8,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13572,"SISU2019",623.84,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13574,"SISU2019",623.64,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13576,"SISU2019",621.12,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13578,"SISU2019",619.22,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13580,"SISU2019",618.6,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13582,"SISU2019",611.3,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13584,"SISU2019",606.1,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13586,"SISU2019",606.06,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13588,"SISU2019",603.96,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13590,"SISU2019",603.14,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13592,"SISU2019",601.9,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13594,"SISU2019",599,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13596,"SISU2019",598.74,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13598,"SISU2019",585.14,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13600,"SISU2019",582.72,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13602,"SISU2019",575.08,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13604,"SISU2019",567.54,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13605,"SISU2019",557.38,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13606,"SISU2019",553.18,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13607,"SISU2019",547.08,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13608,"SISU2019",544.42,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13609,"SISU2019",532.26,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13610,"SISU2019",516.82,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13611,"SISU2019",472.54,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13612,"SISU2019",420.32,7,0,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13613,"SISU2019",412.76,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
+13614,"SISU2019",409.02,7,NA,NA,"Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)","","MEDICINA","L05","NA",TRUE,FALSE,FALSE,FALSE
