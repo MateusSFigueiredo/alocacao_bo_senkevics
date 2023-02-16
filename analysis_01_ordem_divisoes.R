@@ -256,10 +256,17 @@ todas_as_ordens_m_3 <- todas_as_ordens[c(1:3,13:21)]
 todas_as_ordens <- rbind(todas_as_ordens_2,todas_as_ordens_3,
                          todas_as_ordens_m_2,todas_as_ordens_m_3)
 
+row.names(todas_as_ordens) <- c(paste0(1:12,"a"),
+                           paste0(1:12,"b"))
+
 # Limpeza
 rm(todas_as_ordens_2, todas_as_ordens_3,
   todas_as_ordens_m_2,todas_as_ordens_m_3,
    permutations)
+
+# ------------------------------------------------------------------------------
+# Exportar ordens
+# write.csv2(todas_as_ordens,"todas_as_ordens.csv")
 
 # ==============================================================================
 # Gambiarra
